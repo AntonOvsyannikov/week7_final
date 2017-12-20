@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2.7
+  - numpy
+  - pandas
+  - matplotlib
+  - sklearn
+  - scipy
+  - ipywidgets
