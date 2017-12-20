@@ -1,3 +1,6 @@
-numpy==1.13
-pandas==0.20
-matplotlib==2.1
+numpy
+pandas
+matplotlib
+ipywidgets
+sklearn
+scipy
