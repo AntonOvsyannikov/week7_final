@@ -1,2 +1,0 @@
-echo TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_TEST_
-jupyter nbextension enable --py widgetsnbextension --sys-prefix
